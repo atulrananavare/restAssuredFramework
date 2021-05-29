@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.restAssuredFramework.getRequestAutomation">
+      <class name="com.restAssuredFramework.postRequestAutomation">
         <methods>
-          <include name="T001"/>
+          <include name="TC_002"/>
         </methods>
-      </class> <!-- com.restAssuredFramework.getRequestAutomation -->
+      </class> <!-- com.restAssuredFramework.postRequestAutomation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

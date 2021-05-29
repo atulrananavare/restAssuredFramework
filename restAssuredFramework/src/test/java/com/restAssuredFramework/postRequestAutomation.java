@@ -22,7 +22,7 @@ public class postRequestAutomation {
 		/*Assert.assertEquals(body.contains("2021-03-07")  Expected value , true  Actual Value ,
 				"Response body contains 2021-03-07");*/
 		
-		Assert.assertEquals(body.toLowerCase().contains("2021-03-07T13:38:12") /*Expected value*/, true /*Actual Value*/, "Response body contains 2021-03-07");
+		Assert.assertEquals(body.toLowerCase().contains("2021-05-29") /*Expected value*/, true /*Actual Value*/, "Response body contains 2021-03-07");
 	
 		
 	}
